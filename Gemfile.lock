@@ -1,4 +1,10 @@
 GIT
+  remote: https://github.com/rcswainston/swainston_view_tool
+  revision: a11d9f308de66b34f5863fe130e79eab5e3761f0
+  specs:
+    swainston_view_tool (0.1.0)
+
+GIT
   remote: https://github.com/twbs/bootstrap-rubygem
   revision: 7cdeca9a0e8db3bb7548d9fa5bdaad9b644fca32
   specs:
@@ -207,6 +213,7 @@ DEPENDENCIES
   sass-rails (~> 5.0)
   spring
   spring-watcher-listen (~> 2.0.0)
+  swainston_view_tool!
   turbolinks (~> 5)
   tzinfo-data
   uglifier (>= 1.3.0)
